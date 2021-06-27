@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.nyst_updated_2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Game_Dev\\Projects\\Nyst_updated_2\\Nyst_Updated_2\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Nyst_Updated_2 [Testing]"
+        }
+      }
+    }
+  ]
+}
