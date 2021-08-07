@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GazeDemoScene.unity
+    guid: e915b2b809dc8ec4b877dc5dae8c97c2
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 6c59504611628b64b8d5148e9498cd40, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 959ef05fbd7e37940b08630afcaf94c5, type: 2}
